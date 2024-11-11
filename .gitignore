@@ -46,3 +46,7 @@ hs_err_pid*
 build/
 
 node_modules
+
+.gitattributes
+mvnw
+mvnw.cmd
